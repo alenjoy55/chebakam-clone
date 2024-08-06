@@ -42,14 +42,14 @@
  .chem{
     position: absolute;
     left: 200px;
-    top: 200px;
+    top: 77px;
  }
  .wlcm{
     position: absolute;
     font-weight: bold;
-    left: 200px;
-    top: 200px;
-    font-size: 350%;
+    left: 210px;
+    top: 150px;
+    font-size: 33PX;
     color:white
  }
  .whtsapp{

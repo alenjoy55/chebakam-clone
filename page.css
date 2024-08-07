@@ -27,13 +27,13 @@
      padding: 0px;
     position: absolute;
     padding-left: 2px;
-    width: 40px;
+    width: 37px;
     height: 26px;
     font-size: 20px;
     background: transparent;
     border: 0;
     font-weight: normal;
-    top: 67px; 
+    top: 20px; 
  }
  .main{
     position: relative;
@@ -41,7 +41,7 @@
  }
  .chem{
     position: absolute;
-    left: 77px;
+    left: 17px;
     top: 31px;
  }
  .wlcm{
@@ -51,6 +51,13 @@
     top: 150px;
     font-size: 33PX;
     color:white
+ }
+ .btn{
+   position: absolute;
+   margin-left: 65px;
+   /* margin-top: 2px; */
+   margin-bottom: 70px;
+   padding: 7px;
  }
  .whtsapp{
     position: fixed;
